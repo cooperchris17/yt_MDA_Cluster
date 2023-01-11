@@ -11,7 +11,7 @@ import pandas as pd
 import random
 
 # you need to register an API key (https://developers.google.com/youtube/v3/getting-started)
-api_key = 'INPUT API KEY'
+api_key = 'INPUT_API_KEY'
 # generate a random search term from the edited NLTK stopword list
 random_search = ' '.join(random.sample(stop_words, 3))
 # use the trigram as a search term
