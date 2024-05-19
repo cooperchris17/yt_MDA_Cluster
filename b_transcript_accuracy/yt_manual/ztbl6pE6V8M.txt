@@ -1,0 +1,44 @@
+Locate and open the Voice Memos app.
+To make a recording,
+tap on the big red circle
+at the bottom of the screen.
+You will see a new audio file
+being created as you record.
+To stop recording, tap the red square
+at the bottom of the screen.
+To rename a recording,
+tap the audio file you want to rename.
+Then, give it a new name and tap "Return."
+To add more to a recording
+that you've already made,
+tap the three blue dots next
+to the file you want to extend,
+then hit "Edit Recording."
+Scroll down to the end of the timeline.
+Be sure you scrolled
+all the way to the end,
+or you'll be replacing audio
+rather than adding more.
+Hit "Resume" to recommence the recording.
+When finished, hit the pause button
+and then tap on "Done."
+To crop the beginning and
+end edges of the audio,
+tap the three blue dots next to the file
+that you want to trim,
+then hit "Edit Recording."
+Tap on the square icon
+with the two vertical lines
+at opposite corners on the
+top right of the window.
+Below you will see a miniature
+version of the waveform.
+You can drag the beginning and the end
+to trim off any unwanted audio.
+Tap "Trim" and then "Save."
+Then tap "Done."
+To share or export an audio recording,
+tap the three blue dots
+next to a recording,
+and then tap "Share" to
+open sharing options.
