@@ -15,7 +15,7 @@ from nltk import word_tokenize
 from nltk.tag import StanfordPOSTagger
 from logsnag import LogSnag
 
-logsnag = LogSnag(token='6aee2ed9dfa46839eca6aeeabc360d4b', project='python_script_finished')
+logsnag = LogSnag(token='INPUT_API_TOKEN', project='python_script_finished')
 
 # https://github.com/Computational-Content-Analysis-2018/Content-Analysis/issues/6
 # Add the jar and model via their path (instead of setting environment variables):
