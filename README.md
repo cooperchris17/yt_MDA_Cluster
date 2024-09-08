@@ -17,6 +17,7 @@ The Python code used to
 •	Clean the metadata
 
 b_transcript_accuracy
+
 The transcript for the 10 randomly sampled videos (gold standard, ASR, manual) and the Python code used to calculate the word error rate
 
 c_yt22_preprocessing
