@@ -11,14 +11,20 @@ Cooper, C. R. (2023). The identification of YouTube videos that feature the ling
 Here is a summary of what is available in each folder:
 
 a_corpus_compilation
+
+
 The Python code used to 
 •	extract the video IDs from the YouTube Data API
 •	Download transcripts of the videos
 •	Clean the metadata
 
+
+
 b_transcript_accuracy
 
 The transcript for the 10 randomly sampled videos (gold standard, ASR, manual) and the Python code used to calculate the word error rate
+
+
 
 c_yt22_preprocessing
 The Python code used to pre-process the YouTube transcripts
