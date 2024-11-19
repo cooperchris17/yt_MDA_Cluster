@@ -46,5 +46,5 @@ g_supplementary_data
   
 •	The Excel spreadsheets that were used for the qualitative coding in Section 4.6 and   
 •	a .csv file including metadata, dimension scores, cluster information, topic information and the CEFR level for each video in the YT22  
-•	the embeddings for videos in the YT22 are not shared here sue to the large size of the file, but they are aailable on request (cooper@rikkyo.ac.jp)
+•	the embeddings for videos in the YT22 are not shared here due to the large size of the file, but they are aailable on request (cooper@rikkyo.ac.jp)
 
