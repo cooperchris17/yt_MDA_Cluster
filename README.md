@@ -13,9 +13,9 @@ Here is a summary of what is available in each folder:
 a_corpus_compilation
 
 The Python code used to 
-•	extract the video IDs from the YouTube Data API
-•	Download transcripts of the videos
-•	Clean the metadata
+•	extract the video IDs from the YouTube Data API  
+•	Download transcripts of the videos  
+•	Clean the metadata  
 
 b_transcript_accuracy
 
